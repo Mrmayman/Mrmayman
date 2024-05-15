@@ -1,6 +1,15 @@
-### Hi there 👋
+# Hi :)
+
+I am Mrmayman, and I enjoy programming.
+
+I've got a variety of projects on my profile, and more to come.
+
+## Contact
+
+Discord: @mrmayman
 
 <!--
+### Hi there 👋
 **Mrmayman/Mrmayman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
