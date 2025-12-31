@@ -1,12 +1,24 @@
 # Hi :)
 
-I am Mrmayman, and I enjoy programming.
-
+I'm Mrmayman, and I enjoy programming.
 I've got a variety of projects on my profile, and more to come.
+
+## Projects
+
+- **QuantumLauncher** ([repo](https://github.com/Mrmayman/quantumlauncher), [website](https://mrmayman.github.io/quantumlauncher)):
+  A simple, powerful Minecraft launcher with [10k+ downloads](https://tooomm.github.io/github-release-stats/?username=Mrmayman&repository=quantum-launcher)
+- [**Rash**](https://github.com/Mrmayman/rash):
+  A high performance (incomplete) JIT compiled runtime for the Scratch block-based language
+- Helpful libraries:
+  - [**Frostmark**](https://github.com/Mrmayman/frostmark): A github-style Markdown and HTML renderer widget for the [iced](https://iced.rs) UI framework
+  - [**Bytemuncher**](https://github.com/Mrmayman/bytemuncher): Ergonomic helper methods to read bytes from streams in rust
+  - [**machstic**](https://github.com/Mrmayman/machstic): Rust-style `match` statements in C++!
+- [**My website**](https://mrmayman.github.io): [repo](https://github.com/Mrmayman/quantumlauncher)
 
 ## Contact
 
-Discord: @mrmayman
+- Discord: @mrmayman
+- Discord Server: <https://discord.gg/bWqRaSXar5>
 
 <!--
 ### Hi there 👋
